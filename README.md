@@ -1,4 +1,4 @@
-﻿# Learning Repository Placeholder
+# Learning Repository Placeholder
 
 ## Description
 
